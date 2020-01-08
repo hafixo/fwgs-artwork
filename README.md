@@ -1,3 +1,7 @@
+# MOVED TO https://git.mentality.rip/FWGS/fwgs-artwork
+
+This repo is deprecated now. You can use it to link here but for following any updates, I recommend follow the link above.
+
 # FWGS Artwork
 
 This repo contains every artwork made for Flying With Gauss by various artists.
